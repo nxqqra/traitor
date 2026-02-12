@@ -4,7 +4,11 @@ Automatically exploit low-hanging fruit to pop a root shell. Linux privilege esc
 
 Traitor packages up a bunch of methods to exploit local misconfigurations and vulnerabilities in order to pop a root shell:
 
+<<<<<<< HEAD
 - greatest of all time 
+=======
+- nxqqra the best(>_0)
+>>>>>>> branch1
 - Writeable docker.sock
 - CVE-2022-0847 (Dirty pipe)
 - CVE-2021-4034 (pwnkit)
